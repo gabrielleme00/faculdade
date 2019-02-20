@@ -2,6 +2,8 @@
 Apenas exercícios da faculdade.
 
 ## Compilação
+### Windows
+Uma IDE provavelmente está sendo usada.
 ### Linux:
 #### C:
-`$ gcc -o <arquivo de output> <source>.c`
+`$ gcc -o <output> <source>.c`
